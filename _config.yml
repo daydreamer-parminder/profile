@@ -10,28 +10,17 @@ name: Parminder Singh
 title: Software Engineer
 email: parmsoftech@gmail.com
 # email_title: Email (Email title override)
-phone: +919814828840
+phone: 9814828840
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: 
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-twitter_username: jekyllrb
 github_username: daydreamer-parminder
-stackoverflow_username: 
-dribbble_username: 
-facebook_username: 
-flickr_username: 
-instagram_username: 
 linkedin_username: parminder-singh-11187b71
-xing_username: 
-pinterest_username: 
-youtube_username: 
-orcid_username: 
-googlescholar_username: 
 
 # Additional icon links
 additional_links:
@@ -50,15 +39,19 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I prefer to call myself problem lover/solver who is always despirate to face new and challenging problems. My career is pretty diverse as i deal with all kind of application development, be it 
+  backend or frontend, i like to build the products from scracth.  
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
+  My main bold points of my responsibilities through out my career are
+    - Desing patterns
+    - Algorithms
+    - Mathematics
+    - Object Oriented Programming
+    - Application core development
     - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    - /images/landscape-trees.jpg "Trees"
 
 content:
   - title: Projects # Title for the section
@@ -67,20 +60,43 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: RHR
+        link: https://succession-planning-dev.appspot.com/login
+        link_text: RHR
         quote: >
-          Short overview of the project (optional)
+          This project is to automate the selection of employees for particular role in 
+          the registered organization withing this app.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          My Responsibility was to develop the REST API's in the backend and consume theme
+          as well in frontend.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Agority
+        link: https://agority.app/
+        link_text: Agority
+        quote: >
+          This project is to make a virtual rooms in the VR app and interact with other member
+          connected to the room in the app.
+        description: | # this will include new lines to allow paragraphs
+          This is virtual reality business application where users can iteract with each other
+          in virtual rooms, share the multi media files with each other, presentations and other
+          usefull stuff one do in regual business meetings in the offices.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Agority
+        link: https://agority.app/
+        link_text: Agority
+        quote: >
+          This project is to make a virtual rooms in the VR app and interact with other member
+          connected to the room in the app.
+        description: | # this will include new lines to allow paragraphs
+          This is virtual reality business application where users can iteract with each other
+          in virtual rooms, share the multi media files with each other, presentations and other
+          usefull stuff one do in regual business meetings in the offices.
+
+          
   - title: Experience
     layout: list
     content:
