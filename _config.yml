@@ -69,19 +69,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           My Responsibility was to develop the REST API's in the backend and consume theme
           as well in frontend.
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Agority
-        link: https://agority.app/
-        link_text: Agority
-        quote: >
-          This project is to make a virtual rooms in the VR app and interact with other member
-          connected to the room in the app.
-        description: | # this will include new lines to allow paragraphs
-          This is virtual reality business application where users can iteract with each other
-          in virtual rooms, share the multi media files with each other, presentations and other
-          usefull stuff one do in regual business meetings in the offices.
+          
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -96,6 +84,44 @@ content:
           in virtual rooms, share the multi media files with each other, presentations and other
           usefull stuff one do in regual business meetings in the offices.
 
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Basket Wars
+        link: 
+        link_text: BasketWars
+        quote: >
+          This is Survival RPG shooter game where user have to put the balls in the basket and need
+          to destroy the zombies approaching the user base.
+        description: | # this will include new lines to allow paragraphs
+          This is the basket ball survival RPG shooter game where waves of the zombies approach towards
+          the users base and user need to destroy them with baskets and with some firepower as well.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: AR Chat
+        link: 
+        link_text: ARChat
+        quote: >
+          This is java based AR android application where users can send and recieve 3D object as smileys.
+          These 3D objects can be 3d text, video plane, image plane, drawing board, sound making objects etc. 
+        description: | # this will include new lines to allow paragraphs
+          This is the AR android application developed in android studio for AR enabled device where user can
+          place the 3d objects anywhere in AR space and also send them to others as well.
+      
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: VR Drive
+        link: https://drive.google.com/file/d/15_NyDzmcqQ0MkGhONZ4rN6N13ntgVdGT/view?usp=sharing 
+        link_text: VRDrive
+        quote: >
+          This project is for driving the car in the VR where user can control the hands with VR 
+          hand controllers.
+        description: | # this will include new lines to allow paragraphs
+          This is virtual reality car driving application where user can control the car with help
+          of VR headset controllers, this project is mainly developed for car driving schools.          
           
   - title: Experience
     layout: list
