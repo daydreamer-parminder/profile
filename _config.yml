@@ -62,8 +62,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Basket Wars (Game)
-        link: 
-        link_text:
+        link: BasketWars
+        link_text: https://drive.google.com/file/d/1Wv8wY8D-dtMSYxR0WTqn9elFEBtl3lpW/view
         quote: >
           This is Survival RPG shooter game where user have to put the balls in the basket and need
           to destroy the zombies approaching the user base.
@@ -135,8 +135,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Ring App (OpenCV App)
-        link: https://drive.google.com/file/d/15_NyDzmcqQ0MkGhONZ4rN6N13ntgVdGT/view?usp=sharing 
-        link_text:
+        link:  RingApp
+        link_text: https://drive.google.com/file/d/15_NyDzmcqQ0MkGhONZ4rN6N13ntgVdGT/view?usp=sharing
         quote: >
           This project is for trying different rings on your finger virtually.
         description: | # this will include new lines to allow paragraphs
@@ -161,8 +161,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Agority (VR App)
-        link: https://agority.app/
-        link_text:
+        link: Agority
+        link_text: https://agority.app/
         quote: >
           This project is to make a virtual rooms in the VR app and interact with other member
           connected to the room in the app.
@@ -188,8 +188,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: RHR (Web App)
-        link: https://succession-planning-dev.appspot.com/login
-        link_text:
+        link: RHR
+        link_text: https://succession-planning-dev.appspot.com/login
         quote: >
           This project is to automate the selection of employees for particular role in 
           the registered organization withing this app.
