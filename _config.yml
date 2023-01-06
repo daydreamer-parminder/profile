@@ -135,7 +135,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Ring App (OpenCV App)
-        link: https://drive.google.com/file/d/15_NyDzmcqQ0MkGhONZ4rN6N13ntgVdGT/view?usp=sharing
+        link: https://drive.google.com/file/d/1wiAhOxJcqtiqFSLAQx56RwwmcP61_6Uk/view
         link_text: RingApp
         quote: >
           This project is for trying different rings on your finger virtually.
