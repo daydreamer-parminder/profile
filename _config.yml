@@ -57,25 +57,112 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: RHR
-        link: https://succession-planning-dev.appspot.com/login
-        link_text: RHR
+        title: Basket Wars (Game)
+        link: 
+        link_text:
         quote: >
-          This project is to automate the selection of employees for particular role in 
-          the registered organization withing this app.
+          This is Survival RPG shooter game where user have to put the balls in the basket and need
+          to destroy the zombies approaching the user base.
         description: | # this will include new lines to allow paragraphs
-          My Responsibility was to develop the REST API's in the backend and consume theme
-          as well in frontend.
-          
+          This is the basket ball survival RPG shooter game where waves of the zombies approach towards
+          the users base and user need to destroy them with baskets and with some firepower as well.
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Agority
+        title: Slots (Game)
+        link: https://play.google.com/store/apps/details?id=com.club7.playriver
+        link_text: RSFun-Slots
+        quote: >
+          This is Online Slot game.
+        description: | # this will include new lines to allow paragraphs
+          This is Online Slot game where user can select different themes of slot matchine and bet on 
+          different lines to get respective payouts.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Fight Knight (Game)
+        link: https://play.google.com/store/apps/details?id=com.rvtechnolgies.fightknights&hl=en_US
+        link_text: FightKnight
+        quote: >
+          This is RTS game battle of resources in between the users and kingdoms.
+        description: | # this will include new lines to allow paragraphs
+          This is Real time strategy game where user is allocated the space in kingdom and there is 
+          battle of resources in between the users and kingdoms as well.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Baccarat (Game)
+        link: https://drive.google.com/file/d/1sIfIq8zEETW5fDtzxpDYloWv8qHNhbSe/view?usp=drive_open
+        link_text: Baccarat
+        quote: >
+          This is Casino game with cards.
+        description: | # this will include new lines to allow paragraphs
+          This is a casino game where user need to put bets on given slots over the table and payouts will
+          be given with respect to the cards outcome for the user.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Fire Rings (Game)
+        link: https://drive.google.com/file/d/1-4wcytwgM7I-erRHYkqmD9eGp7CEDSfI/view
+        link_text: FireRings
+        quote: >
+          This is Casual Game.
+        description: | # this will include new lines to allow paragraphs
+          This is casual game where user need to pass both the thumbs from fire rings obstacles during the
+          journey.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Circle Dash (Game)
+        link: https://www.youtube.com/watch?v=JWN1q5ku28Y
+        link_text: CircleDash
+        quote: >
+          This is Casual Game.
+        description: | # this will include new lines to allow paragraphs
+          This is casual game where user need to pass the ball from different rotating obstacles during the
+          journey.          
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Ring App (OpenCV App)
+        link: https://drive.google.com/file/d/15_NyDzmcqQ0MkGhONZ4rN6N13ntgVdGT/view?usp=sharing 
+        link_text:
+        quote: >
+          This project is for trying different rings on your finger virtually.
+        description: | # this will include new lines to allow paragraphs
+          This is OpenCV ring trying application where user put the hand infront of their device
+          camera and application will detect your ringer finger automatically and put the ring
+          on that finger.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: AR Chat (AR App)
+        link: 
+        link_text:
+        quote: >
+          This is java based AR android application where users can send and recieve 3D object as smileys.
+          These 3D objects can be 3d text, video plane, image plane, drawing board, sound making objects etc. 
+        description: | # this will include new lines to allow paragraphs
+          This is the AR android application developed in android studio for AR enabled device where user can
+          place the 3d objects anywhere in AR space and also send them to others as well.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Agority (VR App)
         link: https://agority.app/
-        link_text: Agority
+        link_text:
         quote: >
           This project is to make a virtual rooms in the VR app and interact with other member
           connected to the room in the app.
@@ -87,71 +174,102 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Basket Wars
-        link: 
-        link_text: BasketWars
-        quote: >
-          This is Survival RPG shooter game where user have to put the balls in the basket and need
-          to destroy the zombies approaching the user base.
-        description: | # this will include new lines to allow paragraphs
-          This is the basket ball survival RPG shooter game where waves of the zombies approach towards
-          the users base and user need to destroy them with baskets and with some firepower as well.
-
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: AR Chat
-        link: 
-        link_text: ARChat
-        quote: >
-          This is java based AR android application where users can send and recieve 3D object as smileys.
-          These 3D objects can be 3d text, video plane, image plane, drawing board, sound making objects etc. 
-        description: | # this will include new lines to allow paragraphs
-          This is the AR android application developed in android studio for AR enabled device where user can
-          place the 3d objects anywhere in AR space and also send them to others as well.
-      
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: VR Drive
+        title: VR Drive (VR App)
         link: https://drive.google.com/file/d/15_NyDzmcqQ0MkGhONZ4rN6N13ntgVdGT/view?usp=sharing 
-        link_text: VRDrive
+        link_text:
         quote: >
           This project is for driving the car in the VR where user can control the hands with VR 
           hand controllers.
         description: | # this will include new lines to allow paragraphs
           This is virtual reality car driving application where user can control the car with help
-          of VR headset controllers, this project is mainly developed for car driving schools.          
-          
-  - title: Experience
+          of VR headset controllers, this project is mainly developed for car driving schools.    
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: RHR (Web App)
+        link: https://succession-planning-dev.appspot.com/login
+        link_text:
+        quote: >
+          This project is to automate the selection of employees for particular role in 
+          the registered organization withing this app.
+        description: | # this will include new lines to allow paragraphs
+          My Responsibility was to develop the REST API's in the backend and consume theme
+          as well in frontend.    
+
+  - title: Technical Specialist
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Maven Wave, Atos
+        sub_title: Developer
+        caption: Feburary 2021 - present
+        link: https://www.mavenwave.com/
         quote: >
-          Short description of the company (optional)
+          Maven wave is service based organization mainly deals with cloud tehcnologies.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          My role is the organization is to develop effective and efficient solutions for
+          the web applications.
+
+  - title: Software Engineer
+    layout: list
+    content:
+      - layout: right
+        title: Mobile Programming LLC
+        sub_title: Developer
+        caption: June 2020 - Feb 2021
+        link: https://www.mobileprogramming.com/
+        quote: >
+          Mobile Programming LLC is service based organization mainly deals with software/Hardware
+          solutions as per cliet demand.
+        description: | # this will include new lines to allow paragraphs
+          My role is the organization is to develop AR/VR applications in Unity3D using 3rd party tools
+          like OpenCV or ML agents.
+
+  - title: Software Engineer
+    layout: list
+    content:
+      - layout: right
+        title: ChicMic
+        sub_title: Developer
+        caption: Feb 2018 - March 2019
+        link: https://www.chicmic.in/
+        quote: >
+          ChicMic is service based organization mainly deals with Game development soutions in Unity3D, Cocos2D.
+        description: | # this will include new lines to allow paragraphs
+          My role is the organization is to develop the casual games.
+
+  - title: Software Engineer
+    layout: list
+    content:
+      - layout: right
+        title: Ommzi
+        sub_title: Developer
+        caption: Dec 2015 - April 2017
+        link: https://www.ommzi.com/
+        quote: >
+          Ommzi is service based organization mainly deals with Game development soutions in Unity3D.
+        description: | # this will include new lines to allow paragraphs
+          My role is the organization is to develop mainly the Casino/Slot games.
+
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Chandigarh Engineering College, City Mohali, State Punjab, Country India
+        sub_title: B.Tech CSE
+        caption: 2011 - 2015
         quote: >
-          Short institution or course description (optional)
+          4 Year Regual Bachelor of Technology in Computer Sciences and Engineering
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Studied basic of engineering, computer science, programming languages, mathematics.
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Though i like Gaming the most in my life, i also like to take participate in sports like basket ball.
+      I have runner up certificate for inter district compettion.
+      I have winner certificate for online competitive ConterStrike game in my State organized by our universities.  
 
 # Footer
 footer_show_references: true
