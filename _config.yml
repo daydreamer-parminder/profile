@@ -62,8 +62,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Basket Wars (Game)
-        link: BasketWars
-        link_text: https://drive.google.com/file/d/1Wv8wY8D-dtMSYxR0WTqn9elFEBtl3lpW/view
+        link: https://drive.google.com/file/d/1Wv8wY8D-dtMSYxR0WTqn9elFEBtl3lpW/view
+        link_text: BasketWars
         quote: >
           This is Survival RPG shooter game where user have to put the balls in the basket and need
           to destroy the zombies approaching the user base.
@@ -135,8 +135,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Ring App (OpenCV App)
-        link:  RingApp
-        link_text: https://drive.google.com/file/d/15_NyDzmcqQ0MkGhONZ4rN6N13ntgVdGT/view?usp=sharing
+        link: https://drive.google.com/file/d/15_NyDzmcqQ0MkGhONZ4rN6N13ntgVdGT/view?usp=sharing
+        link_text: RingApp
         quote: >
           This project is for trying different rings on your finger virtually.
         description: | # this will include new lines to allow paragraphs
@@ -148,8 +148,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: AR Chat (AR App)
-        link: 
-        link_text:
+        link: https://www.chicmic.in/portfolios/ar-chat/
+        link_text: ARChat
         quote: >
           This is java based AR android application where users can send and recieve 3D object as smileys.
           These 3D objects can be 3d text, video plane, image plane, drawing board, sound making objects etc. 
@@ -161,8 +161,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Agority (VR App)
-        link: Agority
-        link_text: https://agority.app/
+        link: https://agority.app/
+        link_text: Agority
         quote: >
           This project is to make a virtual rooms in the VR app and interact with other member
           connected to the room in the app.
@@ -176,7 +176,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: VR Drive (VR App)
         link: https://drive.google.com/file/d/15_NyDzmcqQ0MkGhONZ4rN6N13ntgVdGT/view?usp=sharing 
-        link_text:
+        link_text: VRDrive
         quote: >
           This project is for driving the car in the VR where user can control the hands with VR 
           hand controllers.
@@ -188,8 +188,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: RHR (Web App)
-        link: RHR
-        link_text: https://succession-planning-dev.appspot.com/login
+        link: https://succession-planning-dev.appspot.com/login
+        link_text: RHR
         quote: >
           This project is to automate the selection of employees for particular role in 
           the registered organization withing this app.
