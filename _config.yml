@@ -215,6 +215,32 @@ content:
           My role is the organization is to develop AR/VR applications in Unity3D using 3rd party tools
           like OpenCV or ML agents.
 
+  - title: Game Developer
+    layout: list
+    content:
+      - layout: right
+        title: WebZool Inc.
+        sub_title: Developer
+        caption: Dec 2019 - June 2020
+        link: https://webzool.io/
+        quote: >
+          WebZool Inc. is product based organization mainly deals with Game development soutions in Slot games built on Unity3D.
+        description: | # this will include new lines to allow paragraphs
+          My role is the organization is to develop the Slot games core architecture.
+
+  - title: Game Developer
+    layout: list
+    content:
+      - layout: right
+        title: BigBee Studio
+        sub_title: Developer
+        caption: April 2019 - Nov 2019
+        link: https://www.bigbeestudios.com/
+        quote: >
+          BigBee Studio is service based organization mainly deals with Game development soutions in Unity3D. They have products and sevral service based projects.
+        description: | # this will include new lines to allow paragraphs
+          My role is the organization is to develop the Slot and Massive multiplayer Strategy battlefield games.
+
   - title: Software Engineer
     layout: list
     content:
