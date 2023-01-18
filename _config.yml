@@ -99,6 +99,17 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
+        title: Knife Hit (Game)
+        link: https://drive.google.com/file/d/1-6YJ9TJ1Whdn0ybBRPkKl5pjhXObFpsg/view?usp=share_link
+        link_text: KnifeHit
+        quote: >
+          This is Casual Game.
+        description: | # this will include new lines to allow paragraphs
+          This is casual game where user need to hit the objects with knife placed on rotating drums of different speed and directions.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: Fire Rings (Game)
         link: https://drive.google.com/file/d/1-4wcytwgM7I-erRHYkqmD9eGp7CEDSfI/view
         link_text: FireRings
@@ -241,7 +252,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           My role is the organization is to develop the Slot and Massive multiplayer Strategy battlefield games.
 
-  - title: Software Engineer
+  - title: Game Developer
     layout: list
     content:
       - layout: right
@@ -254,7 +265,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           My role is the organization is to develop the casual games.
 
-  - title: Software Engineer
+  - title: Game Developer
     layout: list
     content:
       - layout: right
